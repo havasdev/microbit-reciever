@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_data">No Data</string>
+    <string name="temp_symbol">°C</string>
+    <string name="zero">0</string>
+    <string name="hum_symbol">%</string>
+    <string name="pres_symbol">hPa</string>
+    <string name="hyphun">-</string>
+    <string name="end">終了</string>
+</resources>
