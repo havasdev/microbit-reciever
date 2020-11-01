@@ -21,7 +21,7 @@
 
 1. 右上の「code」ボタンから「Download ZIP」をクリックし、ソースをダウンロードします。
 2. ダウンロードしたZIPファイルを解凍します。
-3. AndroidStudioをダウンロードし、インストールします。 
+3. AndroidStudioをダウンロードし、インストールします。   
 [AndroidStudioのインストール](https://developer.android.com/studio/install?hl=ja)
 4. AndroidStudioから「Open an Existing Project」で解凍したディレクトリを選択し開きます。  
 [AndroidStudioで既存のプロジェクトをインポートする](https://mio.yokohama/?p=380)
