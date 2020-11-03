@@ -25,4 +25,6 @@
 [AndroidStudioのインストール](https://developer.android.com/studio/install?hl=ja)
 4. AndroidStudioから「Open an Existing Project」で解凍したディレクトリを選択し開きます。  
 [AndroidStudioで既存のプロジェクトをインポートする](https://mio.yokohama/?p=380)
+5. Android実機をUSBで連結し、テストを行います。（bluetooth機能は実機ではないとテストできません。）  
+[Android Studioで開発したアプリを実機でテストする方法](https://techacademy.jp/magazine/2433)
 
