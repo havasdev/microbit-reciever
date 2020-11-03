@@ -17,7 +17,7 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
 
-## インストール方法
+## インストール及びテスト方法
 
 1. 右上の「code」ボタンから「Download ZIP」をクリックし、ソースをダウンロードします。
 2. ダウンロードしたZIPファイルを解凍します。
